@@ -1,0 +1,26 @@
+﻿
+@{
+    Layout = null;
+}
+
+<!DOCTYPE html>
+
+<html>
+<head>
+    <meta name="viewport" content="width=device-width" />
+    <title>View</title>
+</head>
+<body>
+    <div> 
+        <nav>
+            <ul>
+                <li>@Html.ActionLink("Nhập danh sách", "nhap", "thongtin", new { area = "" }, new { @class = "nav-link" })</li>
+                <li>@Html.ActionLink("Xuất danh sách", "xuatlist", "thongtin", new { area = "" }, new { @class = "nav-link" })</li>
+            </ul>
+        </nav>
+    </div>
+    <div>
+        @RenderBody()
+    </div>
+</body>
+</html>

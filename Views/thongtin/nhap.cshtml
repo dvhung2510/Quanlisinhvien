@@ -1,0 +1,87 @@
+﻿
+@{
+    
+    Layout = "~/Views/Shared/View.cshtml";
+}
+
+
+<form action="/thongtin/xuat" method="post">
+    <table border="1">
+        <tr>
+            <td colspan="2" align="center">
+                Thông tin nhân viên
+            </td>
+
+
+        </tr>
+        <tr>
+            <td>
+                First name
+            </td>
+            <td>
+                <input type="text" name="firstname" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+                Last name
+            </td>
+            <td>
+                <input type="text" name="lastname" />
+            </td>
+        </tr>
+        <tr>
+            <td>Gender</td>
+            <td>
+                <input type="radio" name="gioitinh" value="Nam" />Nam
+                <input type="radio" name="gioitinh" value="Nữ" />Nữ
+            </td>
+        </tr>
+        <tr>
+            <td>DOB</td>
+            <td colspan="2">
+                <select name="namsinh">
+                    <option value="2001">2001</option>
+                    <option value="2002">2002</option>
+                    <option value="2003">2003</option>
+                </select>
+                <select name="thangsinh">
+                    <option value="1">1</option>
+                    <option value="2">2</option>
+                    <option value="3">3</option>
+                </select>
+            </td>
+
+        </tr>
+        <tr>
+            <td>Hobbies</td>
+            <td>
+                <input type="checkbox" name="sothich" value="music" />Music
+                <input type="checkbox" name="sothich" value="touris" />Touris
+                <input type="checkbox" name="sothich" value="sport" />Sport
+            </td>
+        </tr>
+        <tr>
+            <td>
+               Salary
+            </td>
+            <td>
+                <input type="text" name="salary" />
+            </td>
+        </tr>
+        <tr>
+            <td>
+           Work days
+            </td>
+            <td>
+                <input type="text" name="ngaylv" />
+            </td>
+        </tr>
+        <tr>
+            <td colspan="2" align="center">
+                <input type="submit" value="submit" />
+                <input type="reset" value="reset" />
+            </td>          
+        </tr>
+    </table>
+</form>

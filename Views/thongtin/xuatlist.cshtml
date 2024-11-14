@@ -1,0 +1,110 @@
+﻿@model IEnumerable <kien.Models.nhanvien>
+@{
+
+    Layout = "~/Views/Shared/View.cshtml";
+    List<kien.Models.nhanvien> li = ViewBag.li;
+    List<kien.Models.nhanvien> li1 = ViewBag.li1;
+    List<kien.Models.nhanvien> li2 = ViewBag.li2;
+}
+
+
+
+<table class="chung" border="1">
+    <tr>
+        <td colspan="6" align="center">Danh sách nhân viên </td>
+    </tr>
+    <tr>
+        <td>
+            họ tên
+        </td>
+        <td>giới tính</td>
+        <td>dob</td>
+        <td>hobbies</td>
+        <td>luong</td>
+        <td>ngaylv</td>
+    </tr>
+    @foreach (var item in li)
+    {
+        <tr>
+        <tr>
+            <td>
+                @item.firstname @item.lastname
+            </td>
+            <td>@item.gioitinh</td>
+            <td>@item.namsinh @item.thangsinh</td>
+            <td>@item.sothich</td>
+            <td>@item.salary</td>
+            <td>@item.ngaylv</td>
+        </tr>
+        </tr>
+    }
+</table>
+<table class="chung" border="1">
+    <tr>
+        <td colspan="6" align="center">Danh sách nhân viên có lương hơn 300</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>
+            họ tên
+        </td>
+        <td>giới tính</td>
+        <td>dob</td>
+        <td>hobbies</td>
+        <td>luong</td>
+        <td>ngaylv</td>
+    </tr>
+    </tr>
+    @foreach (var item in li1)
+    {
+        <tr>
+            <td>
+                @item.firstname @item.lastname
+            </td>
+            <td>@item.gioitinh</td>
+            <td>@item.namsinh @item.thangsinh</td>
+            <td>@item.sothich</td>
+            <td>@item.salary</td>
+            <td>@item.ngaylv</td>
+        </tr>
+    }
+</table>
+<table class="chung" border="1">
+    <tr>
+        <td colspan="6" align="center">Danh sách nhân viên có giới tính là nam</td>
+    </tr>
+    <tr>
+    <tr>
+        <td>
+            họ tên
+        </td>
+        <td>giới tính</td>
+        <td>dob</td>
+        <td>hobbies</td>
+        <td>luong</td>
+        <td>ngaylv</td>
+    </tr>
+    </tr>
+    @foreach (var item in li2)
+    {
+        <tr>
+        <tr>
+            <td>
+                @item.firstname @item.lastname
+            </td>
+            <td>@item.gioitinh</td>
+            <td>@item.namsinh @item.thangsinh</td>
+            <td>@item.sothich</td>
+            <td>@item.salary</td>
+            <td>@item.ngaylv</td>
+        </tr>
+        </tr>
+    }
+</table>
+<style>
+    .chung{
+        border :1px solid red;
+        padding :5px 20px;
+        align-content center;
+    }
+</style>

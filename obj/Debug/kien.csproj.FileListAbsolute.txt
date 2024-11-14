@@ -1,0 +1,158 @@
+C:\Insight Files\kien\bin\kien.dll.config
+C:\Insight Files\kien\bin\kien.dll
+C:\Insight Files\kien\bin\kien.pdb
+C:\Insight Files\kien\bin\roslyn\csc.exe
+C:\Insight Files\kien\bin\roslyn\csc.exe.config
+C:\Insight Files\kien\bin\roslyn\csc.rsp
+C:\Insight Files\kien\bin\roslyn\csi.exe
+C:\Insight Files\kien\bin\roslyn\csi.exe.config
+C:\Insight Files\kien\bin\roslyn\csi.rsp
+C:\Insight Files\kien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Insight Files\kien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Insight Files\kien\bin\roslyn\Microsoft.Managed.Core.targets
+C:\Insight Files\kien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Insight Files\kien\bin\roslyn\Microsoft.Win32.Primitives.dll
+C:\Insight Files\kien\bin\roslyn\System.AppContext.dll
+C:\Insight Files\kien\bin\roslyn\System.Collections.Immutable.dll
+C:\Insight Files\kien\bin\roslyn\System.Console.dll
+C:\Insight Files\kien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+C:\Insight Files\kien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+C:\Insight Files\kien\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Insight Files\kien\bin\roslyn\System.Globalization.Calendars.dll
+C:\Insight Files\kien\bin\roslyn\System.IO.Compression.dll
+C:\Insight Files\kien\bin\roslyn\System.IO.Compression.ZipFile.dll
+C:\Insight Files\kien\bin\roslyn\System.IO.FileSystem.dll
+C:\Insight Files\kien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Insight Files\kien\bin\roslyn\System.Net.Http.dll
+C:\Insight Files\kien\bin\roslyn\System.Net.Sockets.dll
+C:\Insight Files\kien\bin\roslyn\System.Reflection.Metadata.dll
+C:\Insight Files\kien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Insight Files\kien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+C:\Insight Files\kien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+C:\Insight Files\kien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+C:\Insight Files\kien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+C:\Insight Files\kien\bin\roslyn\System.Text.Encoding.CodePages.dll
+C:\Insight Files\kien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+C:\Insight Files\kien\bin\roslyn\System.ValueTuple.dll
+C:\Insight Files\kien\bin\roslyn\System.Xml.ReaderWriter.dll
+C:\Insight Files\kien\bin\roslyn\System.Xml.XmlDocument.dll
+C:\Insight Files\kien\bin\roslyn\System.Xml.XPath.dll
+C:\Insight Files\kien\bin\roslyn\System.Xml.XPath.XDocument.dll
+C:\Insight Files\kien\bin\roslyn\vbc.exe
+C:\Insight Files\kien\bin\roslyn\vbc.exe.config
+C:\Insight Files\kien\bin\roslyn\vbc.rsp
+C:\Insight Files\kien\bin\roslyn\VBCSCompiler.exe
+C:\Insight Files\kien\bin\roslyn\VBCSCompiler.exe.config
+C:\Insight Files\kien\bin\Antlr3.Runtime.dll
+C:\Insight Files\kien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Insight Files\kien\bin\Microsoft.Web.Infrastructure.dll
+C:\Insight Files\kien\bin\Newtonsoft.Json.dll
+C:\Insight Files\kien\bin\System.Web.Helpers.dll
+C:\Insight Files\kien\bin\System.Web.Mvc.dll
+C:\Insight Files\kien\bin\System.Web.Optimization.dll
+C:\Insight Files\kien\bin\System.Web.Razor.dll
+C:\Insight Files\kien\bin\System.Web.WebPages.Deployment.dll
+C:\Insight Files\kien\bin\System.Web.WebPages.dll
+C:\Insight Files\kien\bin\System.Web.WebPages.Razor.dll
+C:\Insight Files\kien\bin\WebGrease.dll
+C:\Insight Files\kien\bin\System.Web.Helpers.xml
+C:\Insight Files\kien\bin\System.Web.Mvc.xml
+C:\Insight Files\kien\bin\System.Web.Optimization.xml
+C:\Insight Files\kien\bin\System.Web.Razor.xml
+C:\Insight Files\kien\bin\System.Web.WebPages.xml
+C:\Insight Files\kien\bin\System.Web.WebPages.Deployment.xml
+C:\Insight Files\kien\bin\System.Web.WebPages.Razor.xml
+C:\Insight Files\kien\bin\Newtonsoft.Json.xml
+C:\Insight Files\kien\bin\Antlr3.Runtime.pdb
+C:\Insight Files\kien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Insight Files\kien\obj\Debug\kien.csproj.AssemblyReference.cache
+C:\Insight Files\kien\obj\Debug\kien.csproj.CoreCompileInputs.cache
+C:\Insight Files\kien\obj\Debug\kien.csproj.CopyComplete
+C:\Insight Files\kien\obj\Debug\kien.dll
+C:\Insight Files\kien\obj\Debug\kien.pdb
+E:\kien\bin\kien.dll.config
+E:\kien\bin\kien.dll
+E:\kien\bin\kien.pdb
+E:\kien\bin\roslyn\csc.exe
+E:\kien\bin\roslyn\csc.exe.config
+E:\kien\bin\roslyn\csc.rsp
+E:\kien\bin\roslyn\csi.exe
+E:\kien\bin\roslyn\csi.exe.config
+E:\kien\bin\roslyn\csi.rsp
+E:\kien\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\kien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\kien\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+E:\kien\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\kien\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+E:\kien\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\kien\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\kien\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+E:\kien\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+E:\kien\bin\roslyn\Microsoft.Managed.Core.targets
+E:\kien\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\kien\bin\roslyn\Microsoft.Win32.Primitives.dll
+E:\kien\bin\roslyn\System.AppContext.dll
+E:\kien\bin\roslyn\System.Collections.Immutable.dll
+E:\kien\bin\roslyn\System.Console.dll
+E:\kien\bin\roslyn\System.Diagnostics.DiagnosticSource.dll
+E:\kien\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+E:\kien\bin\roslyn\System.Diagnostics.StackTrace.dll
+E:\kien\bin\roslyn\System.Globalization.Calendars.dll
+E:\kien\bin\roslyn\System.IO.Compression.dll
+E:\kien\bin\roslyn\System.IO.Compression.ZipFile.dll
+E:\kien\bin\roslyn\System.IO.FileSystem.dll
+E:\kien\bin\roslyn\System.IO.FileSystem.Primitives.dll
+E:\kien\bin\roslyn\System.Net.Http.dll
+E:\kien\bin\roslyn\System.Net.Sockets.dll
+E:\kien\bin\roslyn\System.Reflection.Metadata.dll
+E:\kien\bin\roslyn\System.Runtime.InteropServices.RuntimeInformation.dll
+E:\kien\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+E:\kien\bin\roslyn\System.Security.Cryptography.Encoding.dll
+E:\kien\bin\roslyn\System.Security.Cryptography.Primitives.dll
+E:\kien\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+E:\kien\bin\roslyn\System.Text.Encoding.CodePages.dll
+E:\kien\bin\roslyn\System.Threading.Tasks.Extensions.dll
+E:\kien\bin\roslyn\System.ValueTuple.dll
+E:\kien\bin\roslyn\System.Xml.ReaderWriter.dll
+E:\kien\bin\roslyn\System.Xml.XmlDocument.dll
+E:\kien\bin\roslyn\System.Xml.XPath.dll
+E:\kien\bin\roslyn\System.Xml.XPath.XDocument.dll
+E:\kien\bin\roslyn\vbc.exe
+E:\kien\bin\roslyn\vbc.exe.config
+E:\kien\bin\roslyn\vbc.rsp
+E:\kien\bin\roslyn\VBCSCompiler.exe
+E:\kien\bin\roslyn\VBCSCompiler.exe.config
+E:\kien\bin\Antlr3.Runtime.dll
+E:\kien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\kien\bin\Microsoft.Web.Infrastructure.dll
+E:\kien\bin\Newtonsoft.Json.dll
+E:\kien\bin\System.Web.Helpers.dll
+E:\kien\bin\System.Web.Mvc.dll
+E:\kien\bin\System.Web.Optimization.dll
+E:\kien\bin\System.Web.Razor.dll
+E:\kien\bin\System.Web.WebPages.Deployment.dll
+E:\kien\bin\System.Web.WebPages.dll
+E:\kien\bin\System.Web.WebPages.Razor.dll
+E:\kien\bin\WebGrease.dll
+E:\kien\bin\System.Web.Helpers.xml
+E:\kien\bin\System.Web.Mvc.xml
+E:\kien\bin\System.Web.Optimization.xml
+E:\kien\bin\System.Web.Razor.xml
+E:\kien\bin\System.Web.WebPages.xml
+E:\kien\bin\System.Web.WebPages.Deployment.xml
+E:\kien\bin\System.Web.WebPages.Razor.xml
+E:\kien\bin\Newtonsoft.Json.xml
+E:\kien\bin\Antlr3.Runtime.pdb
+E:\kien\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\kien\obj\Debug\kien.csproj.AssemblyReference.cache
+E:\kien\obj\Debug\kien.csproj.CoreCompileInputs.cache
+E:\kien\obj\Debug\kien.csproj.Up2Date
+E:\kien\obj\Debug\kien.dll
+E:\kien\obj\Debug\kien.pdb
